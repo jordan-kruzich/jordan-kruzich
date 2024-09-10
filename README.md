@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jordan Kruzich</h1>
-<h3 align="center">A 3rd Year Electrical Engineering Student at Queen's University</h3>
+<h3 align="center">A 4th Year Electrical Engineering Student at Queen's University</h3>
 
 - 📫 How to reach me **21jdk2@queensu.ca**
 
